@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gabrielwang47
 - 👀 I’m interested in Coding
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Python and SQL
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me ...
 
